@@ -1,0 +1,9 @@
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\bin\Debug\TesteFormsApplication1.exe.config
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\bin\Debug\TesteFormsApplication1.exe
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\bin\Debug\TesteFormsApplication1.pdb
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\obj\Debug\TesteFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\obj\Debug\TesteFormsApplication1.Form1.resources
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\obj\Debug\TesteFormsApplication1.Properties.Resources.resources
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\obj\Debug\TesteFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\obj\Debug\TesteFormsApplication1.exe
+C:\Users\lucas.alonso\Desktop\vb\TesteFormsApplication1\TesteFormsApplication1\obj\Debug\TesteFormsApplication1.pdb
